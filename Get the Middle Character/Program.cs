@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Get_the_Middle_Character.Kata.GetMiddle("testin"));

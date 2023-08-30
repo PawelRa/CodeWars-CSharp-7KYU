@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Ones_and_Zeros.Kata.binaryArrayToNumber(new int[] { 0, 1, 1, 0 }));

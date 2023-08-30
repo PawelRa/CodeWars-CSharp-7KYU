@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Regex_validate_PIN_code.Kata.ValidatePin("133456"));
