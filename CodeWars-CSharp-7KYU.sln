@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two to One", "Two to One\Tw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Friend or Foe", "Friend or Foe\Friend or Foe.csproj", "{A4D83E8B-CBF1-4101-88ED-12DD035D5A39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return substring instance count", "Return substring instance count\Return substring instance count.csproj", "{7DEDE44B-63B3-4FBF-97A5-B3D85AF85F92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return substring instance count", "Return substring instance count\Return substring instance count.csproj", "{7DEDE44B-63B3-4FBF-97A5-B3D85AF85F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is n divisible by", "Is n divisible by\Is n divisible by.csproj", "{283BD2C6-0607-4679-809B-4D77E842C5B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{7DEDE44B-63B3-4FBF-97A5-B3D85AF85F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DEDE44B-63B3-4FBF-97A5-B3D85AF85F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DEDE44B-63B3-4FBF-97A5-B3D85AF85F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283BD2C6-0607-4679-809B-4D77E842C5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283BD2C6-0607-4679-809B-4D77E842C5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283BD2C6-0607-4679-809B-4D77E842C5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283BD2C6-0607-4679-809B-4D77E842C5B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
