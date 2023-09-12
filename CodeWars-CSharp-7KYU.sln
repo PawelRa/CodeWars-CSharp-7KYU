@@ -61,6 +61,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Over The Road", "Over The R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tail Swap", "Tail Swap\Tail Swap.csproj", "{24DEFE50-0922-4C21-AEF3-9AEF12E538EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trimming a string", "Trimming a string\Trimming a string.csproj", "{4FCFB0D3-7395-47E6-AF1A-873AA9B681BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{24DEFE50-0922-4C21-AEF3-9AEF12E538EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24DEFE50-0922-4C21-AEF3-9AEF12E538EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24DEFE50-0922-4C21-AEF3-9AEF12E538EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FCFB0D3-7395-47E6-AF1A-873AA9B681BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCFB0D3-7395-47E6-AF1A-873AA9B681BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCFB0D3-7395-47E6-AF1A-873AA9B681BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCFB0D3-7395-47E6-AF1A-873AA9B681BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
