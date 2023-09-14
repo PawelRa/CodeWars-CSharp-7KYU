@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tail Swap", "Tail Swap\Tail
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trimming a string", "Trimming a string\Trimming a string.csproj", "{4FCFB0D3-7395-47E6-AF1A-873AA9B681BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filter the number", "Filter the number\Filter the number.csproj", "{88BCFC78-A02B-47D8-8FD7-8721F9D652BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filter the number", "Filter the number\Filter the number.csproj", "{88BCFC78-A02B-47D8-8FD7-8721F9D652BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selective fear of numbers", "Selective fear of numbers\Selective fear of numbers.csproj", "{132027B8-2EFB-46F5-9183-7F3EB753FA53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{88BCFC78-A02B-47D8-8FD7-8721F9D652BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88BCFC78-A02B-47D8-8FD7-8721F9D652BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88BCFC78-A02B-47D8-8FD7-8721F9D652BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132027B8-2EFB-46F5-9183-7F3EB753FA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132027B8-2EFB-46F5-9183-7F3EB753FA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132027B8-2EFB-46F5-9183-7F3EB753FA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132027B8-2EFB-46F5-9183-7F3EB753FA53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
