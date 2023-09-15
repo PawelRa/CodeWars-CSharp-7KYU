@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trimming a string", "Trimmi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filter the number", "Filter the number\Filter the number.csproj", "{88BCFC78-A02B-47D8-8FD7-8721F9D652BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selective fear of numbers", "Selective fear of numbers\Selective fear of numbers.csproj", "{132027B8-2EFB-46F5-9183-7F3EB753FA53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selective fear of numbers", "Selective fear of numbers\Selective fear of numbers.csproj", "{132027B8-2EFB-46F5-9183-7F3EB753FA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two numbers are positive", "Two numbers are positive\Two numbers are positive.csproj", "{C37ED73C-ED85-4ADD-B8C8-88B1843FB052}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{132027B8-2EFB-46F5-9183-7F3EB753FA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{132027B8-2EFB-46F5-9183-7F3EB753FA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{132027B8-2EFB-46F5-9183-7F3EB753FA53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37ED73C-ED85-4ADD-B8C8-88B1843FB052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37ED73C-ED85-4ADD-B8C8-88B1843FB052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37ED73C-ED85-4ADD-B8C8-88B1843FB052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37ED73C-ED85-4ADD-B8C8-88B1843FB052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
