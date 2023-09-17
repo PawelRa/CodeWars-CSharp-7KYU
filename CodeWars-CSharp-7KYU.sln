@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two numbers are positive", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vowel Count", "Vowel Count\Vowel Count.csproj", "{185E0EA2-4437-40B3-B36B-2C8B480EDCB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is valid identifier", "Is valid identifier\Is valid identifier.csproj", "{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is valid identifier", "Is valid identifier\Is valid identifier.csproj", "{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScript Array Filter", "JavaScript Array Filter\JavaScript Array Filter.csproj", "{709BBD75-0914-453A-96C2-44A36E540B78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709BBD75-0914-453A-96C2-44A36E540B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709BBD75-0914-453A-96C2-44A36E540B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709BBD75-0914-453A-96C2-44A36E540B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709BBD75-0914-453A-96C2-44A36E540B78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
