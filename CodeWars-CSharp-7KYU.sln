@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filter the number", "Filter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selective fear of numbers", "Selective fear of numbers\Selective fear of numbers.csproj", "{132027B8-2EFB-46F5-9183-7F3EB753FA53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two numbers are positive", "Two numbers are positive\Two numbers are positive.csproj", "{C37ED73C-ED85-4ADD-B8C8-88B1843FB052}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two numbers are positive", "Two numbers are positive\Two numbers are positive.csproj", "{C37ED73C-ED85-4ADD-B8C8-88B1843FB052}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel Count", "Vowel Count\Vowel Count.csproj", "{185E0EA2-4437-40B3-B36B-2C8B480EDCB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vowel Count", "Vowel Count\Vowel Count.csproj", "{185E0EA2-4437-40B3-B36B-2C8B480EDCB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is valid identifier", "Is valid identifier\Is valid identifier.csproj", "{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{185E0EA2-4437-40B3-B36B-2C8B480EDCB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{185E0EA2-4437-40B3-B36B-2C8B480EDCB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{185E0EA2-4437-40B3-B36B-2C8B480EDCB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B32E26-B93A-4E07-81BC-D41A17D11ECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
