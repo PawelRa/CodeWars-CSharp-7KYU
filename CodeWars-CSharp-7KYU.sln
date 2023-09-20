@@ -75,7 +75,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is valid identifier", "Is v
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JavaScript Array Filter", "JavaScript Array Filter\JavaScript Array Filter.csproj", "{709BBD75-0914-453A-96C2-44A36E540B78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of integers in string", "Sum of integers in string\Sum of integers in string.csproj", "{D5E51244-0DCD-415E-AC5C-29A792A5E071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of integers in string", "Sum of integers in string\Sum of integers in string.csproj", "{D5E51244-0DCD-415E-AC5C-29A792A5E071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator Distance", "Elevator Distance\Elevator Distance.csproj", "{5D755322-4AD4-470D-A6E2-6DF472122085}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{D5E51244-0DCD-415E-AC5C-29A792A5E071}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5E51244-0DCD-415E-AC5C-29A792A5E071}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5E51244-0DCD-415E-AC5C-29A792A5E071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D755322-4AD4-470D-A6E2-6DF472122085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D755322-4AD4-470D-A6E2-6DF472122085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D755322-4AD4-470D-A6E2-6DF472122085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D755322-4AD4-470D-A6E2-6DF472122085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
