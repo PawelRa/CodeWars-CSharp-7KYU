@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elapsed Seconds", "Elapsed 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deodorant Evaporator", "Deodorant Evaporator\Deodorant Evaporator.csproj", "{33EC479A-A7E2-4006-AF70-69466F35F92B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Decimal Digits", "Number of Decimal Digits\Number of Decimal Digits.csproj", "{B6413644-A3EB-467E-A641-0ECF46D77584}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{33EC479A-A7E2-4006-AF70-69466F35F92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33EC479A-A7E2-4006-AF70-69466F35F92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33EC479A-A7E2-4006-AF70-69466F35F92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6413644-A3EB-467E-A641-0ECF46D77584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6413644-A3EB-467E-A641-0ECF46D77584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6413644-A3EB-467E-A641-0ECF46D77584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6413644-A3EB-467E-A641-0ECF46D77584}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
