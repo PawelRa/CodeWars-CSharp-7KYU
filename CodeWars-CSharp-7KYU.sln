@@ -91,9 +91,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deodorant Evaporator", "Deo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number of Decimal Digits", "Number of Decimal Digits\Number of Decimal Digits.csproj", "{B6413644-A3EB-467E-A641-0ECF46D77584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd or Even", "Odd or Even\Odd or Even.csproj", "{01719C0C-F997-4545-B999-57F51358D4A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odd or Even", "Odd or Even\Odd or Even.csproj", "{01719C0C-F997-4545-B999-57F51358D4A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Float Precision", "Float Precision\Float Precision.csproj", "{C74074FA-DB66-4EB1-88EA-DBFDF376D75A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Float Precision", "Float Precision\Float Precision.csproj", "{C74074FA-DB66-4EB1-88EA-DBFDF376D75A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers in strings", "Numbers in strings\Numbers in strings.csproj", "{4B0A4E09-800F-40BC-AAD3-E4012BCCEE43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +287,10 @@ Global
 		{C74074FA-DB66-4EB1-88EA-DBFDF376D75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C74074FA-DB66-4EB1-88EA-DBFDF376D75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C74074FA-DB66-4EB1-88EA-DBFDF376D75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0A4E09-800F-40BC-AAD3-E4012BCCEE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0A4E09-800F-40BC-AAD3-E4012BCCEE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0A4E09-800F-40BC-AAD3-E4012BCCEE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0A4E09-800F-40BC-AAD3-E4012BCCEE43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
