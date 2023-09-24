@@ -79,6 +79,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of integers in string",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator Distance", "Elevator Distance\Elevator Distance.csproj", "{5D755322-4AD4-470D-A6E2-6DF472122085}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum a list but ignore any duplicates", "Sum a list but ignore any duplicates\Sum a list but ignore any duplicates.csproj", "{1FE089AB-B67A-428A-8878-5CE0A1759202}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{5D755322-4AD4-470D-A6E2-6DF472122085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D755322-4AD4-470D-A6E2-6DF472122085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D755322-4AD4-470D-A6E2-6DF472122085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE089AB-B67A-428A-8878-5CE0A1759202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE089AB-B67A-428A-8878-5CE0A1759202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE089AB-B67A-428A-8878-5CE0A1759202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE089AB-B67A-428A-8878-5CE0A1759202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
