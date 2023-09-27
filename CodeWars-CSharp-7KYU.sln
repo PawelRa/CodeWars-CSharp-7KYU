@@ -83,7 +83,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum a list but ignore any d
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Converting 12-hour time to 24-hour time", "Converting 12-hour time to 24-hour time\Converting 12-hour time to 24-hour time.csproj", "{9551D556-3DD0-4FBC-A8E7-532BD82A88FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String ends with", "String ends with\String ends with.csproj", "{A87179EA-B91C-4401-9D27-9A2431F633D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String ends with", "String ends with\String ends with.csproj", "{A87179EA-B91C-4401-9D27-9A2431F633D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elapsed Seconds", "Elapsed Seconds\Elapsed Seconds.csproj", "{B769D029-6C58-443D-B5FC-C70B9918D6A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{A87179EA-B91C-4401-9D27-9A2431F633D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A87179EA-B91C-4401-9D27-9A2431F633D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A87179EA-B91C-4401-9D27-9A2431F633D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B769D029-6C58-443D-B5FC-C70B9918D6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B769D029-6C58-443D-B5FC-C70B9918D6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B769D029-6C58-443D-B5FC-C70B9918D6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B769D029-6C58-443D-B5FC-C70B9918D6A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
