@@ -85,11 +85,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Converting 12-hour time to 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String ends with", "String ends with\String ends with.csproj", "{A87179EA-B91C-4401-9D27-9A2431F633D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elapsed Seconds", "Elapsed Seconds\Elapsed Seconds.csproj", "{B769D029-6C58-443D-B5FC-C70B9918D6A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elapsed Seconds", "Elapsed Seconds\Elapsed Seconds.csproj", "{B769D029-6C58-443D-B5FC-C70B9918D6A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deodorant Evaporator", "Deodorant Evaporator\Deodorant Evaporator.csproj", "{33EC479A-A7E2-4006-AF70-69466F35F92B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deodorant Evaporator", "Deodorant Evaporator\Deodorant Evaporator.csproj", "{33EC479A-A7E2-4006-AF70-69466F35F92B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Decimal Digits", "Number of Decimal Digits\Number of Decimal Digits.csproj", "{B6413644-A3EB-467E-A641-0ECF46D77584}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number of Decimal Digits", "Number of Decimal Digits\Number of Decimal Digits.csproj", "{B6413644-A3EB-467E-A641-0ECF46D77584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd or Even", "Odd or Even\Odd or Even.csproj", "{01719C0C-F997-4545-B999-57F51358D4A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +275,10 @@ Global
 		{B6413644-A3EB-467E-A641-0ECF46D77584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6413644-A3EB-467E-A641-0ECF46D77584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6413644-A3EB-467E-A641-0ECF46D77584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01719C0C-F997-4545-B999-57F51358D4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01719C0C-F997-4545-B999-57F51358D4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01719C0C-F997-4545-B999-57F51358D4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01719C0C-F997-4545-B999-57F51358D4A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
