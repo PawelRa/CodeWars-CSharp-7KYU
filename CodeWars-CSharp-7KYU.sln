@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Determine if the poker hand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check three and two", "Check three and two\Check three and two.csproj", "{2A8E0CB2-7414-41AB-89E3-29906C85071D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pairs", "Number Pairs\Number Pairs.csproj", "{4411A211-4552-413F-AB54-B8B94A2135C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{2A8E0CB2-7414-41AB-89E3-29906C85071D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A8E0CB2-7414-41AB-89E3-29906C85071D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A8E0CB2-7414-41AB-89E3-29906C85071D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4411A211-4552-413F-AB54-B8B94A2135C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4411A211-4552-413F-AB54-B8B94A2135C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4411A211-4552-413F-AB54-B8B94A2135C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4411A211-4552-413F-AB54-B8B94A2135C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,1 @@
+﻿Console.WriteLine(String.Join(", ", Number_Pairs.Kata.getLargerNumbers(new int[] { 13, 64, 5, 7, 88 }, new int[] { 23, 4, 53, 17, 80 })));
