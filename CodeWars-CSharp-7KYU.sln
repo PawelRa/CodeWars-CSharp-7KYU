@@ -103,7 +103,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check three and two", "Chec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Pairs", "Number Pairs\Number Pairs.csproj", "{4411A211-4552-413F-AB54-B8B94A2135C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple beads count", "Simple beads count\Simple beads count.csproj", "{3E557558-F7EB-47EA-9213-BCDCEDA4355E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple beads count", "Simple beads count\Simple beads count.csproj", "{3E557558-F7EB-47EA-9213-BCDCEDA4355E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel sheet column numbers", "Excel sheet column numbers\Excel sheet column numbers.csproj", "{579AC089-6B65-4270-AE93-4D30F05661EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -315,6 +317,10 @@ Global
 		{3E557558-F7EB-47EA-9213-BCDCEDA4355E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E557558-F7EB-47EA-9213-BCDCEDA4355E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E557558-F7EB-47EA-9213-BCDCEDA4355E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579AC089-6B65-4270-AE93-4D30F05661EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579AC089-6B65-4270-AE93-4D30F05661EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579AC089-6B65-4270-AE93-4D30F05661EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579AC089-6B65-4270-AE93-4D30F05661EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
