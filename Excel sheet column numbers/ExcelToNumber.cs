@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Excel_sheet_column_numbers
 {
@@ -10,14 +7,17 @@ namespace Excel_sheet_column_numbers
     {
         public static long TitleToNumber(string title)
         {
-            //  long result = (title.Length - 1) * 26;
             long result = 0;
             char[] chars = title.Reverse().ToArray();
 
-            for (int i = 1; i < chars.Length; i++)
+            
+            for (int i = 1; i <= chars.Length-1; i++)
             {
-                result += chars[i] % 32 * 26 * i;
+                long level = (long)Math.Pow(26,i);
+                result += level * (chars[i] % 32);
             }
+
+
 
             return result + (chars[0] % 32);
         }
