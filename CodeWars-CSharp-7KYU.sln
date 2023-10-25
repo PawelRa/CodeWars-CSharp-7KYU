@@ -109,11 +109,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excel sheet column numbers"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consecutive letters", "Consecutive letters\Consecutive letters.csproj", "{2981E003-DF12-4FB4-ABE8-1DA2A96F15FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No oddities here", "No oddities here\No oddities here.csproj", "{4741624E-AE7B-405E-8DC0-EA80C13CB483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "No oddities here", "No oddities here\No oddities here.csproj", "{4741624E-AE7B-405E-8DC0-EA80C13CB483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple remove duplicates", "Simple remove duplicates\Simple remove duplicates.csproj", "{7C5B327C-C915-46A5-A48F-1A97741C6025}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple remove duplicates", "Simple remove duplicates\Simple remove duplicates.csproj", "{7C5B327C-C915-46A5-A48F-1A97741C6025}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartesian neighbors", "Cartesian neighbors\Cartesian neighbors.csproj", "{6F273E7E-0204-441F-AA30-2B696B22D1A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cartesian neighbors", "Cartesian neighbors\Cartesian neighbors.csproj", "{6F273E7E-0204-441F-AA30-2B696B22D1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Fun 176 Reverse Letter", "Simple Fun 176 Reverse Letter\Simple Fun 176 Reverse Letter.csproj", "{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +347,10 @@ Global
 		{6F273E7E-0204-441F-AA30-2B696B22D1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F273E7E-0204-441F-AA30-2B696B22D1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F273E7E-0204-441F-AA30-2B696B22D1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
