@@ -115,7 +115,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple remove duplicates", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cartesian neighbors", "Cartesian neighbors\Cartesian neighbors.csproj", "{6F273E7E-0204-441F-AA30-2B696B22D1A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Fun 176 Reverse Letter", "Simple Fun 176 Reverse Letter\Simple Fun 176 Reverse Letter.csproj", "{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Fun 176 Reverse Letter", "Simple Fun 176 Reverse Letter\Simple Fun 176 Reverse Letter.csproj", "{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare Strings by Sum of Chars", "Compare Strings by Sum of Chars\Compare Strings by Sum of Chars.csproj", "{965A1EE4-6438-4B2F-96C5-F76B829ACFFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -351,6 +353,10 @@ Global
 		{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B4C87CD-FE16-4BE9-B924-9BE27867F89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965A1EE4-6438-4B2F-96C5-F76B829ACFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965A1EE4-6438-4B2F-96C5-F76B829ACFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965A1EE4-6438-4B2F-96C5-F76B829ACFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965A1EE4-6438-4B2F-96C5-F76B829ACFFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
