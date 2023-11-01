@@ -119,7 +119,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Fun 176 Reverse Lett
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compare Strings by Sum of Chars", "Compare Strings by Sum of Chars\Compare Strings by Sum of Chars.csproj", "{965A1EE4-6438-4B2F-96C5-F76B829ACFFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find The Duplicated Number in a Consecutive Unsorted List", "Find The Duplicated Number in a Consecutive Unsorted List\Find The Duplicated Number in a Consecutive Unsorted List.csproj", "{9C820C2A-469B-41F6-A3DD-1881D67931F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find The Duplicated Number in a Consecutive Unsorted List", "Find The Duplicated Number in a Consecutive Unsorted List\Find The Duplicated Number in a Consecutive Unsorted List.csproj", "{9C820C2A-469B-41F6-A3DD-1881D67931F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Years", "Leap Years\Leap Years.csproj", "{FB4E6EE1-D32C-4F1A-ADF9-38121E55DECB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +365,10 @@ Global
 		{9C820C2A-469B-41F6-A3DD-1881D67931F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C820C2A-469B-41F6-A3DD-1881D67931F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C820C2A-469B-41F6-A3DD-1881D67931F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4E6EE1-D32C-4F1A-ADF9-38121E55DECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4E6EE1-D32C-4F1A-ADF9-38121E55DECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4E6EE1-D32C-4F1A-ADF9-38121E55DECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4E6EE1-D32C-4F1A-ADF9-38121E55DECB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
